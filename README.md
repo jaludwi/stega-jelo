@@ -1,1 +1,1 @@
-# stega-jelo
+# steganografi-jeloart
